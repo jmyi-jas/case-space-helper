@@ -1,6 +1,11 @@
 # 法院空间下载小助手
 
 一键批量下载中国法院网络服务平台（zxfw.court.gov.cn）案件附件的 Chrome 扩展。
+> 号外号外 **现在有粉嫩版本！**
+> 建议下载这个分支体验一下哈哈！！
+> 👉 [点我跳转齐妃体验版](https://github.com/jmyi-jas/case-space-helper/tree/%E7%B2%89%E8%89%B2%E5%A8%87%E5%AB%A9%E4%BD%A0%E5%87%A0%E5%B2%81%E4%BA%86) 🎀
+
+
 
 ## 功能（超好用der！！）
 - 🔑 自动捕获认证参数，无需手动复制 Token
