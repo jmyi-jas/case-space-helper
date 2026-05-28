@@ -2,9 +2,31 @@
   "manifest_version": 3,
   "name": "案件空间小助手",
   "version": "3.0",
-  "description": "一键下载法院案件全部附件",
+  "description": "粉色娇嫩你几岁了",
   "permissions": ["storage"],
   "host_permissions": ["https://zxfw.court.gov.cn/*"],
+
+  "icons": {
+    "16": "download.png",
+    "48": "download.png",
+    "128": "download.png"
+  },
+
+  "action": {
+    "default_icon": {
+      "16": "download.png",
+      "32": "download.png"
+    },
+    "default_title": "案件空间小助手 🌸"
+  },
+
+  "web_accessible_resources": [
+    {
+      "resources": ["download.png"],
+      "matches": ["https://zxfw.court.gov.cn/*"]
+    }
+  ],
+
   "content_scripts": [
     {
       "matches": ["https://zxfw.court.gov.cn/*"],
