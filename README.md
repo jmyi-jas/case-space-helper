@@ -11,10 +11,7 @@
 
 ## 安装方法（开发者模式）
 
-1. 下载或克隆本项目
-   ```
-   git clone https://github.com/你的用户名/court-downloader.git
-   ```
+1. 点code然后下载压缩件
 
 2. 打开 Chrome，地址栏输入：
    ```
