@@ -3,7 +3,7 @@
 一键批量下载中国法院网络服务平台（zxfw.court.gov.cn）案件附件的 Chrome 扩展。
 > 号外号外 **现在有粉嫩版本！**
 > 建议下载这个分支体验一下哈哈！！
-> 👉 [点我跳转齐妃体验版](https://github.com/jmyi-jas/case-space-helper/tree/pink-version)🎀
+> 👉 [点我跳转齐妃体验版](https://github.com/jmyi-jas/case-space-helper/tree/jiaonen-version)🎀
 
 
 
