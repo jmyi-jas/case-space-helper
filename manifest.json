@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "案件空间小助手",
+  "version": "3.0",
+  "description": "一键下载法院案件全部附件",
+  "permissions": ["storage"],
+  "host_permissions": ["https://zxfw.court.gov.cn/*"],
+  "content_scripts": [
+    {
+      "matches": ["https://zxfw.court.gov.cn/*"],
+      "js": ["inject.js"],
+      "world": "MAIN",
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["https://zxfw.court.gov.cn/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
